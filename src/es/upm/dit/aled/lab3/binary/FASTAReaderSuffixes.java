@@ -79,6 +79,7 @@ public class FASTAReaderSuffixes extends FASTAReader {
 	@Override
 	public List<Integer> search(byte[] pattern) {
 		// TODO
+		
 		return null;
 	}
 
